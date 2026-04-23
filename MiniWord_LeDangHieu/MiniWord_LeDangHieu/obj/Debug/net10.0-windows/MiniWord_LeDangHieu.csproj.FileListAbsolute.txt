@@ -1,0 +1,17 @@
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\bin\Debug\net10.0-windows\MiniWord_LeDangHieu.exe
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\bin\Debug\net10.0-windows\MiniWord_LeDangHieu.deps.json
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\bin\Debug\net10.0-windows\MiniWord_LeDangHieu.runtimeconfig.json
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\bin\Debug\net10.0-windows\MiniWord_LeDangHieu.dll
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\bin\Debug\net10.0-windows\MiniWord_LeDangHieu.pdb
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\obj\Debug\net10.0-windows\MiniWord_LeDangHieu.Form1.resources
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\obj\Debug\net10.0-windows\MiniWord_LeDangHieu.csproj.GenerateResource.cache
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\obj\Debug\net10.0-windows\MiniWord_LeDangHieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\obj\Debug\net10.0-windows\MiniWord_LeDangHieu.AssemblyInfoInputs.cache
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\obj\Debug\net10.0-windows\MiniWord_LeDangHieu.AssemblyInfo.cs
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\obj\Debug\net10.0-windows\MiniWord_LeDangHieu.csproj.CoreCompileInputs.cache
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\obj\Debug\net10.0-windows\MiniWord_LeDangHieu.dll
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\obj\Debug\net10.0-windows\refint\MiniWord_LeDangHieu.dll
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\obj\Debug\net10.0-windows\MiniWord_LeDangHieu.pdb
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\obj\Debug\net10.0-windows\MiniWord_LeDangHieu.genruntimeconfig.cache
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\obj\Debug\net10.0-windows\ref\MiniWord_LeDangHieu.dll
+D:\HocTap_DAU\Ky6DAU_code\LapTrinhTrongWindows\MiniWord_LeDangHieu\MiniWord_LeDangHieu\obj\Debug\net10.0-windows\MiniWord_LeDangHieu.Properties.Resources.resources
